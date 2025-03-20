@@ -208,3 +208,40 @@
 0.0.0.0 nmetrics.samsung.com
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 analytics-api.samsunghealthcn.com
+
+
+#########
+# Other #
+#########
+
+# Other
+0.0.0.0 pubmatic.com
+0.0.0.0 metrika.yandex.ru
+0.0.0.0 adfox.yandex.ru
+0.0.0.0 adfstat.yandex.ru
+0.0.0.0 appmetrica.yandex.ru
+0.0.0.0 s.youtube.com
+0.0.0.0 redirector.googlevideo.com
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 analytics.adobe.io
+0.0.0.0 fingerprintjs.com
+0.0.0.0 siftscience.com
+0.0.0.0 cdn.rollbar.com
+0.0.0.0 api.raygun.com
+0.0.0.0 cdn.raygun.io
+0.0.0.0 api.honeybadger.io
+0.0.0.0 logging.googleapis.com
+0.0.0.0 trace.googleapis.com
+0.0.0.0 errorreporting.googleapis.com
+0.0.0.0 public-trace-http-intake.logs.datadoghq.com
+0.0.0.0 connect.facebook.net
+0.0.0.0 graph.facebook.com
+0.0.0.0 graph.instagram.com
+0.0.0.0 ads-api.x.com
+0.0.0.0 pixel.quora.com
+0.0.0.0 px.srvcs.tumblr.com
+0.0.0.0 info.lgsmartad.com
+0.0.0.0 ngfts.lge.com
+0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 vortex.data.microsoft.com
+0.0.0.0 vortex-win.data.microsoft.com
